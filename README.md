@@ -11,7 +11,7 @@
        *****.                          *****       Forks: 0
        *****:                          *****       Contributions: 194 this year
        *****+                         -*****       Languages: Python, HTML, CSS, Markdown, Bash
-       *****#                         #*****       Coffee ☕!
+       *****#                         #*****       Live Laugh Hub
         #****#:                      #****#        -----------------------------
         =**   =*=                 :#******+        
          +*+    ****#         =**********+         
