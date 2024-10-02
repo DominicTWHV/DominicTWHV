@@ -6,10 +6,10 @@
           ****      +-       -+      #***.         ------------------------------
          ****#                       #****:        Username: DominicTWHV
         *#**##                       ##**##        Repositories: 4
-       -****#                         #****=       Stars: 3
+       -****#                         #****=       Stars: 4
        #****=                         :****#       Followers: 2
        *****.                          *****       Forks: 0
-       *****:                          *****       Contributions: 191 this year
+       *****:                          *****       Contributions: 192 this year
        *****+                         -*****       Languages: Python, HTML, CSS, Markdown, Bash
        *****#                         #*****       Coffee ☕!
         #****#:                      #****#        -----------------------------
