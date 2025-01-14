@@ -6,7 +6,7 @@
           ****      +-       -+      #***.         ------------------------------
          ****#                       #****:        Username: DominicTWHV
         *#**##                       ##**##        Repositories: 15
-       -****#                         #****=       Stars: 5
+       -****#                         #****=       Stars: 8
        #****=                         :****#       Followers: 2
        *****.                          *****       Forks: 0
        *****:                          *****       Contributions: 47 this year
