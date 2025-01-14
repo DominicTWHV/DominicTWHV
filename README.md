@@ -10,7 +10,7 @@
        #****=                         :****#       Followers: 2
        *****.                          *****       Forks: 0
        *****:                          *****       Contributions: 47 this year
-       *****+                         -*****       Languages: Python, HTML, CSS, JS, Markdown, Bash
+       *****+                         -*****       Languages: SQL, Python, HTML, CSS, JS, Markdown, Bash, Java
        *****#                         #*****       Live Laugh Hub
         #****#:                      #****#        -----------------------------
         =**   =*=                 :#******+        
