@@ -20,3 +20,9 @@
               +*#**#           *****+              
                  +**           **+             
 ```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DominicTWHV&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DominicTWHV&layout=compact&theme=radical)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DominicTWHV&theme=react-dark)
