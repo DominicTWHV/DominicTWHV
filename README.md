@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/Tools-Git-red?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Markdown-black?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 <p align="center">
