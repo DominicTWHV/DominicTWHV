@@ -26,10 +26,8 @@
 
 **Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DominicTWHV&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominicTWHV&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DominicTWHV&theme=tokyonight" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DominicTWHV&theme=tokyonight" alt="GitHub Profile Summary" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DominicTWHV&show_icons=true&theme=tokyonight" alt="Stats" width="48%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominicTWHV&layout=compact&theme=tokyonight" alt="Top Lang" width="48%" height="200px"/>
 </p>
 
 ---
