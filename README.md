@@ -25,10 +25,10 @@
 ---
 
 **Stats**
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DominicTWHV&show_icons=true&theme=tokyonight" alt="Stats" width="48%" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominicTWHV&layout=compact&theme=tokyonight" alt="Top Lang" width="48%" height="160px"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominicTWHV&layout=compact&theme=tokyonight" alt="Top Lang" width="48%" height="200px"/>
+</div>
 
 ---
 
