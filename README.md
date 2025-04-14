@@ -11,7 +11,7 @@
        #****=                         :****#       
        *****.                          *****       
        *****:                          *****       
-       *****+                         -*****       Languages: SQL, Python, HTML, CSS, JS, Markdown, Bash, Java
+       *****+                         -*****       Languages: SQL, Python, HTML, CSS, JS, Markdown, Bash
        *****#                         #*****       Live Laugh Hub
         #****#:                      #****#        -----------------------------
         =**   =*=                 :#******+        
