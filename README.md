@@ -31,9 +31,11 @@
 ---
 
 ## Get in Touch  
-**Email:** dominic@twhvyt.com  
+**Email:** dominic@twhvyt.com
 **Website:** [twhvyt.com](https://twhvyt.com)  
 **Cockatoo:** [cockatoo.dev](https://cockatoo.dev/)
+
+*Unsolicited marketing/advertising/spam emails will be treated with an address block. Automated outreach not welcomed.*
 
 ---
 
