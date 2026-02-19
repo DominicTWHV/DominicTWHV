@@ -37,6 +37,8 @@
 
 **Cockatoo:** [cockatoo.dev](https://cockatoo.dev/)
 
+**HuggingFace:** [DominicTWHV](https://huggingface.co/DominicTWHV)
+
 *Unsolicited marketing/advertising/spam emails will be treated with an address block. Automated outreach not welcomed.*
 
 ---
