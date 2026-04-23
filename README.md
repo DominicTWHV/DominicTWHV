@@ -19,9 +19,9 @@
           +**                  *********+          
             **                 ********            
               +*#**#           *****+              
-                 +**           **+             
+                 +**           **+
 ```
-
+ 
 ---
 
 <p align="center">
@@ -42,5 +42,9 @@
 *Unsolicited marketing/advertising/spam emails will be treated with an address block. Automated outreach not welcomed.*
 
 ---
+
+Cockatiel!
+
+<img src="https://webpets-flame.vercel.app/generated/cockatiel/gray_run_8fps.gif" /></a>
 
 ⭐️ _Feel free to star some of my repos if you find them useful!_ ⭐️
