@@ -43,8 +43,4 @@
 
 ---
 
-Cockatiel!
-
-<img src="https://webpets-flame.vercel.app/generated/cockatiel/gray_run_8fps.gif" /></a>
-
-⭐️ _Feel free to star some of my repos if you find them useful!_ ⭐️
+I use a private Gitea instance for most of my work now. GitHub is just a public mirror.
